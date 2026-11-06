@@ -1,5 +1,5 @@
 # 🏦 BankWise AI — AI Banking Management Assistant
-
+Public URL - https://bankwiseai-btutj4fuwnkq5w8rkfrbs7.streamlit.app/
 BankWise AI is an educational banking operations dashboard built with **Python, Streamlit, SQLite, Plotly, LangChain and Google Gemini**. It combines everyday banking-management workflows with an AI assistant and a rules-based transaction monitoring demo.
 
 > **Important:** This is a learning/demo application. It uses synthetic data, is not connected to any bank, does not process real payments, and must not be used to make actual lending, fraud, investment, or credit decisions.
